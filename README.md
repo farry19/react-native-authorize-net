@@ -8,11 +8,11 @@
 
 ## Getting started
 
-`$ npm install react-native-authorize-net --save`
+`$ npm install react-native-authorize-dot-net --save`
 
 ### Mostly automatic installation
 
-`$ react-native link react-native-authorize-net`
+`$ react-native link react-native-authorize-dot-net`
 
 ### Manual installation
 
